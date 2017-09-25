@@ -1,0 +1,1 @@
+console.log('O arquivo deverá ser executado pelo shell, navegando até o diretório que se encontra o arquivo e digitando: node noticias.js');
